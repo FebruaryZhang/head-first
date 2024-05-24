@@ -1,6 +1,6 @@
-package simulateDuck.tow.duckBehavior.impl;
+package StrategyPattern.tow.duckBehavior.impl;
 
-import simulateDuck.tow.duckBehavior.FlyBehavior;
+import StrategyPattern.tow.duckBehavior.FlyBehavior;
 
 public class FlyNoWay implements FlyBehavior {
     public void fly() {

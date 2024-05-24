@@ -1,7 +1,7 @@
-package simulateDuck.tow;
+package StrategyPattern.tow;
 
-import simulateDuck.tow.duckBehavior.impl.FlyNoWay;
-import simulateDuck.tow.duckBehavior.impl.Quack;
+import StrategyPattern.tow.duckBehavior.impl.FlyNoWay;
+import StrategyPattern.tow.duckBehavior.impl.Quack;
 
 public class ModelDuck extends Duck {
     public ModelDuck() {

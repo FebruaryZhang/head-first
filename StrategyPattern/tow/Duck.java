@@ -1,7 +1,7 @@
-package simulateDuck.one;
+package StrategyPattern.tow;
 
-import simulateDuck.one.duckBehavior.FlyBehavior;
-import simulateDuck.one.duckBehavior.QuackBehavior;
+import StrategyPattern.tow.duckBehavior.FlyBehavior;
+import StrategyPattern.tow.duckBehavior.QuackBehavior;
 
 public abstract class Duck {
     FlyBehavior flyBehavior;
@@ -23,5 +23,13 @@ public abstract class Duck {
 
     public void swim() {
         System.out.println("all ducks float, even decoys!");
+    }
+
+    public void setFlyBehavior(FlyBehavior fb) {
+        flyBehavior = fb;
+    }
+
+    public void setQuackBehavior(QuackBehavior qb) {
+        quackBehavior = qb;
     }
 }

@@ -1,6 +1,6 @@
-package simulateDuck.one;
+package StrategyPattern.tow;
 
-public class RedheadDuck extends Duck{
+public class RedheadDuck extends Duck {
     public void display() {
         System.out.println("红头鸭。。。 \n");
     }

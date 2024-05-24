@@ -1,6 +1,6 @@
-package simulateDuck.tow.duckBehavior.impl;
+package StrategyPattern.tow.duckBehavior.impl;
 
-import simulateDuck.tow.duckBehavior.QuackBehavior;
+import StrategyPattern.tow.duckBehavior.QuackBehavior;
 
 public class Quack implements QuackBehavior {
     public void quack() {

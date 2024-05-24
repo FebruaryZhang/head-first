@@ -1,4 +1,4 @@
-package simulateDuck.tow.duckBehavior;
+package StrategyPattern.one.duckBehavior;
 
 public interface QuackBehavior {
     void quack();

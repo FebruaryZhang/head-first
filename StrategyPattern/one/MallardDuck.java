@@ -1,7 +1,7 @@
-package simulateDuck.one;
+package StrategyPattern.one;
 
-import simulateDuck.one.duckBehavior.impl.FlyWithWings;
-import simulateDuck.one.duckBehavior.impl.Quack;
+import StrategyPattern.one.duckBehavior.impl.FlyWithWings;
+import StrategyPattern.one.duckBehavior.impl.Quack;
 
 public class MallardDuck extends Duck{
 

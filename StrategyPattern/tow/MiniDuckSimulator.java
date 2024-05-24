@@ -1,6 +1,6 @@
-package simulateDuck.tow;
+package StrategyPattern.tow;
 
-import simulateDuck.tow.duckBehavior.impl.FlyRocketPowered;
+import StrategyPattern.tow.duckBehavior.impl.FlyRocketPowered;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {

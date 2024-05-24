@@ -1,6 +1,6 @@
-package simulateDuck.one.duckBehavior.impl;
+package StrategyPattern.tow.duckBehavior.impl;
 
-import simulateDuck.one.duckBehavior.FlyBehavior;
+import StrategyPattern.tow.duckBehavior.FlyBehavior;
 
 public class FlyWithWings implements FlyBehavior {
     public void fly() {
