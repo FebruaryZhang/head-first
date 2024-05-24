@@ -8,7 +8,8 @@ public abstract class Duck {
 
     QuackBehavior quackBehavior;
 
-    public Duck() {}
+    public Duck() {
+    }
 
     public abstract void display();
 
@@ -22,5 +23,5 @@ public abstract class Duck {
 
     public void swim() {
         System.out.println("all ducks float, even decoys!");
-    };
+    }
 }

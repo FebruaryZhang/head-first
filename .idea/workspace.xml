@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ce4828a-05e2-4913-85ad-20f3d70a8cb1" name="Changes" comment="" />
+    <list default="true" id="9ce4828a-05e2-4913-85ad-20f3d70a8cb1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/simulateDuck/tow/ModelDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulateDuck/tow/duckBehavior/impl/FlyRocketPowered.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/head-first.iml" beforeDir="false" afterPath="$PROJECT_DIR$/head-first.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/head-first/head-first.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/head-first/head-first.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/head-first/simulateDuck/one/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/head-first/simulateDuck/one/Duck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/head-first/simulateDuck/one/MallardDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/head-first/simulateDuck/one/MallardDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/head-first/simulateDuck/one/MiniDuckSimulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/head-first/simulateDuck/one/MiniDuckSimulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/head-first/simulateDuck/one/RedheadDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/head-first/simulateDuck/one/RedheadDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/head-first/simulateDuck/one/duckBehavior/FlyBehavior.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/head-first/simulateDuck/one/duckBehavior/FlyBehavior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/head-first/simulateDuck/one/duckBehavior/QuackBehavior.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/head-first/simulateDuck/one/duckBehavior/QuackBehavior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/head-first/simulateDuck/one/duckBehavior/impl/FlyNoWay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/head-first/simulateDuck/one/duckBehavior/impl/FlyNoWay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/head-first/simulateDuck/one/duckBehavior/impl/FlyWithWings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/head-first/simulateDuck/one/duckBehavior/impl/FlyWithWings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/head-first/simulateDuck/one/duckBehavior/impl/MuteQuack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/head-first/simulateDuck/one/duckBehavior/impl/Quack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/head-first/simulateDuck/one/duckBehavior/impl/Quack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/head-first/simulateDuck/one/duckBehavior/impl/Squeak.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/head-first/simulateDuck/one/duckBehavior/impl/Squeak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simulateDuck/one/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/simulateDuck/one/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simulateDuck/tow/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/simulateDuck/tow/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simulateDuck/tow/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/simulateDuck/tow/MallardDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simulateDuck/tow/MiniDuckSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/simulateDuck/tow/MiniDuckSimulator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +36,23 @@
         <option value="Interface" />
         <option value="Class" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "FebruaryZhang"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="2e6a7850-83bd-4fb4-83ac-ce4d20f8e024" />
+        <option name="url" value="git@github.com:FebruaryZhang/head-first.git" />
+      </UrlAndAccount>
     </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -32,13 +69,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "17",
     "last_opened_file_path": "E:/java-projects/study/head-first/simulateDuck/tow",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
@@ -54,7 +93,7 @@
       <recent name="simulateDuck.one.duckBehavior.impl" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.simulateDuck.tow.MiniDuckSimulator">
     <configuration name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="simulateDuck.one.MiniDuckSimulator" />
       <module name="head-first" />
@@ -68,8 +107,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="simulateDuck.tow.MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simulateDuck.tow.MiniDuckSimulator" />
+      <module name="head-first" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simulateDuck.tow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.simulateDuck.tow.MiniDuckSimulator" />
         <item itemvalue="Application.MiniDuckSimulator" />
       </list>
     </recent_temporary>
@@ -82,12 +135,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716519490025</updated>
-      <workItem from="1716519491037" duration="10779000" />
+      <workItem from="1716519491037" duration="13023000" />
     </task>
+    <task id="LOCAL-00001" summary="增加忽略文件">
+      <option name="closed" value="true" />
+      <created>1716539602532</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716539602532</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="增加忽略文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加忽略文件" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

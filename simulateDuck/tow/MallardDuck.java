@@ -10,7 +10,6 @@ public class MallardDuck extends Duck {
         flyBehavior = new FlyWithWings();
     }
 
-
     public void display() {
         System.out.println("绿头鸭。。。 \n");
     }
