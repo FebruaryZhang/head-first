@@ -1,9 +1,19 @@
 package StrategyPattern.exercise;
 
+import StrategyPattern.exercise.behavior.WeaponBehavior;
+
 public class Character {
 
     public Character() {};
 
-    public void fight() {};
+    public WeaponBehavior weaponBehavior;
+
+    public void fight() {
+        weaponBehavior.useWeapon();
+    };
+
+    public void setWeaponBehavior(WeaponBehavior weaponBehavior) {
+        this.weaponBehavior = weaponBehavior;
+    }
 
 }
