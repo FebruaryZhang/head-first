@@ -2,7 +2,7 @@ package StrategyPattern.exercise;
 
 import StrategyPattern.exercise.behavior.WeaponBehavior;
 
-public class Character {
+public abstract class Character {
 
     public Character() {};
 
